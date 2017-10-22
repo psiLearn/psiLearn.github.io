@@ -1,5 +1,5 @@
 # My Blog learning F#
 
-The purpus of this blog is to document my learning og F#. 
-And this means I'm writing to read it myself again.
-If you are intrested in learining F# this blog might help you, but the intesion is just to help me.
+The purpose of this blog is to document my learning of F#. 
+And this means I write to read it myself again.
+If you are interested in learning F# this blog might help you, but the intention is just to help me.
